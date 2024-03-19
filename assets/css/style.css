@@ -4737,11 +4737,11 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .it-about-2-exp-title i {
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 500;
     color: var(--it-common-white);
     text-transform: capitalize;
-    text-decoration: underline
+    text-decoration: none
 }
 
 .it-about-style-3 .it-about-2-thumb-box {
